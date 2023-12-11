@@ -1,0 +1,10 @@
+002,Stout,6,30,35,MalteTorrado-Lupulo-Levedura-Agua,20,6.5;
+003,PaleAle,7,35,7,Malte-Lupulo-Levedura-Agua,30,7.5;
+004,BelgianTripel,8,30,5,Malte-Acucar-Lupulo-LeveduraBelga-Agua,40,5.5;
+005,WheatBeer(Hefeweizen),5,13,6,MalteDeTrigo-MalteDeCevada-Lupulo-LeveduraDeTrigo-Agua,50,5.5;
+006,Porter,5,30,30,Malte-MalteTorrado-Lupulo-Levedura-Agua,60,5.5;
+007,Saison,6,30,13,Malte-Lupulo-LeveduraDeSaidon-Agua,70,5.5;
+008,AmberAle,5,30,15,Malte-Lupulo-Levedura-Agua,80,5.5;
+009,Barleywine,10,75,15,Malte-Lupulo-Levedura-Agua,90,5.5;
+010,ScottishAle,5,20,17,Malte-Lupulo-Levedura-Agua,100,5.5;
+null,null,null,null,null,null,null,null;
